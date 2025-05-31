@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/example_store_bot"><img src="data/assets/logo.png" alt="ShopBot"></a>
+  <a href="https://t.me/YouBonusplus_bot"><img src="data/assets/logo.png" alt="youbonusplus"></a>
 </p>
 
 This is an example Telegram shop bot. It's a simple and, most importantly, efficient way to place an order without leaving your favorite messenger.
